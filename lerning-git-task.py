@@ -19,3 +19,6 @@ for items in lista_zakupów.values():
 
 
 print(f"W sumie kupuję {liczba_produktów} produktów.")
+
+print(
+print("Serdeczne pozdrowienia dla Mentora.")
